@@ -1,0 +1,21 @@
+/* styles.css */
+
+.odd-styling {
+    background-color: rgb(219, 157, 157);
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+.chained {
+    font-size: 24px;
+}
+
+#id-styling-blue {
+    color: blue;
+    font-size: 36px;
+}
+
+#id-styling-black {
+    background-color:chartreuse;
+    font-size: 24px;
+    font-weight: bold;
+}
